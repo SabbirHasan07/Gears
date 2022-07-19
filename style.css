@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Finlandica:ital,wght@1,700&family=Oswald:wght@300&family=Poppins:wght@500&family=Roboto:wght@300&display=swap');
+body{
+    font-family: 'Finlandica', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+.top-section{
+    margin: 80px;
+    margin-bottom: 40px;
+}
+.section{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.menu-head{
+    display: flex;
+}
+.menu1{
+    text-decoration: none;
+    size: 35px;
+}
+.menu{
+    text-decoration: none;
+    margin: 6px;
+    font-size: 20px;
+    color: black;
+    width: 20px;
+}
+.header{
+    font-size: 40px;
+    width: 700px;
+}
+.para{
+    width:700px
+}
+.prebook{
+    text-decoration: none;
+    color: white;
+    background-color: rgb(226, 43, 43);
+    padding: 10px;
+    border-radius: 16px;
+}
+.head2{
+    
+    margin: 40px;
+}
+.section2{
+    display: flex;
+    margin-left: 80px;
+    margin-bottom: 20px;
+}
+.sec{
+    margin-bottom: 80px;
+}
+.icon{
+    display: flex;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 200px;
+    margin-right: 200px;
+    justify-content: space-between;
+}
+.para{
+    margin-bottom: 40px;
+}
+.hr{
+    margin-bottom: 40px;
+}
+.para2{
+    text-align: center;
+    margin-bottom: 40px;
+}
+.color{
+    color: rgb(255, 208, 0);
+}
+.box{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin-left: 120px;
+    margin-right: 120px;
+    padding: 20px;
+}
+.grid{
+    box-shadow: 40px;
+    margin: 40px;
+
+}
+.see{
+    text-align: end;
+}
+.footer{
+    
+        text-align: center;
+        border: 120px;
+        background-color: darkslategray;
+        padding: 120px;
+        color: white;
+}
